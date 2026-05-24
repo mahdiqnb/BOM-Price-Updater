@@ -19,7 +19,7 @@
 - ساخت نسخه پشتیبان از فایل اصلی
 - رابط گرافیکی ساده با Tkinter
 - نمایش لاگ زنده هنگام پردازش
-
+![Main Window](Bom_Price_Updater/assets/processing.png)
 ---
 
 ## سایت‌های پشتیبانی‌شده در نسخه فعلی
@@ -53,7 +53,7 @@
 
 - `UNIT PRICE`
 - `TOTAL`
-
+![Main Window](Bom_Price_Updater/assets/excel-output.png)
 سپس یک فایل جدید در پوشه `UPDATED_BOMS` ذخیره می‌شود.
 
 ---
@@ -93,6 +93,7 @@
 4. قیمت‌ها را استخراج می‌کند
 5. فایل خروجی را در پوشه `UPDATED_BOMS` ذخیره می‌کند
 
+![Main Window](Bom_Price_Updater/assets/processing.gif)
 ---
 
 ## نصب
