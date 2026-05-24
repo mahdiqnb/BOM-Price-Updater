@@ -1,6 +1,9 @@
 # Iran BOM Price Updater
 ![app-main](assets/app-main.gif)
+![Main Window](assets/app-main.png)
+![Processing](assets/processing.png)
 
+![Excel Output](assets/excel-output.png)
 یک ابزار دسکتاپ پایتون برای به‌روزرسانی قیمت قطعات BOM از روی فایل Excel و لینک‌های خرید قطعات در سایت‌های ایرانی فروش قطعات الکترونیک.
 
 این پروژه به عنوان یک کار جانبی و برای حل یک مشکل واقعی ساخته شد:  
