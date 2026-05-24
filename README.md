@@ -1,5 +1,5 @@
 # Iran BOM Price Updater
-![Demo](assets/demo.gif)
+![app-main](assets/app-main.gif)
 
 یک ابزار دسکتاپ پایتون برای به‌روزرسانی قیمت قطعات BOM از روی فایل Excel و لینک‌های خرید قطعات در سایت‌های ایرانی فروش قطعات الکترونیک.
 
